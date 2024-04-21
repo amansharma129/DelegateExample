@@ -1,9 +1,4 @@
-﻿using ConsoleApp4;
-using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Security.Cryptography.X509Certificates;
-using static ConsoleApp4.Program;
+﻿using System;
 
 namespace ConsoleApp4
 {
